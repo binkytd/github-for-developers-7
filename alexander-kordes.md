@@ -4,3 +4,4 @@
 - [ ] Germany
 - [ ] Pizza
 - [ ] Climbing
+- [ ] Blue
